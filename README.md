@@ -1,6 +1,6 @@
 # About the Project 
 
-TODO
+This repo is not updating. For the newest version of the ARC-AGI model of our group, please check out https://github.com/dt-lindberg/LIPS-ARC-Project.
 
 <!-- GETTING STARTED -->
 ## Getting Started
